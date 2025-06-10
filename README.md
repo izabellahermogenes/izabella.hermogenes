@@ -1,16 +1,16 @@
-## Hi there 👋
+A Vancouver-based developer 👩‍💻✨
+I’m all about turning rad ideas into real apps and websites that actually make life easier (and look good doing it).
 
-<!--
-**izabellahermogenes/izabellahermogenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tool I use:
+    Swift (Xcode) 
+    C# 
+    SQL 
+    HTML & CSS 
+    Power BI/Tableau
 
-Here are some ideas to get you started:
+What drives me:
+  Learning new stuff nonstop — gotta stay fresh!
+  Solving problems that actually matter
+  Leveling up every day and taking on new challenges
+  Let’s build something awesome together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
