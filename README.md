@@ -6,7 +6,8 @@ Tools I use:
 - Swift (Xcode)  
 - C#  
 - SQL  
-- HTML & CSS  
+- HTML & CSS
+- Visual Studio Code
 - Power BI / Tableau  
 
 What drives me:
