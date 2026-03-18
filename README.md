@@ -7,6 +7,8 @@ Tools I use:
 - C#  
 - SQL  
 - HTML & CSS
+- AWS
+- Flutter
 - Visual Studio Code
 - Power BI / Tableau  
 
